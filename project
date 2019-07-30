@@ -1,2 +1,2 @@
-select * from veva_user where cust id ='274'
+select * from veva_user where cust id ='274'-- take user request
 select * from veve_vendor where vendor_id ='123456'
